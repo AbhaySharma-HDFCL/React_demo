@@ -1,9 +1,0 @@
-[{
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.hdfclife.instquotev2",
-      "sha256_cert_fingerprints":
-      ["FB:42:56:E3:AC:39:49:C8:56:D4:AD:8C:98:E0:11:2C:59:17:C7:AE:C5:A2:93:39:4F:D7:CC:9F:03:2E:7A:9B"]
-    }
-  }]
